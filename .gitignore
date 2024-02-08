@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+cf_ias_transport.Rproj
+ignore/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Data/output/intermediate/ignore
+Data/input/ignore
+R/characterization_factor/2_figures.R
