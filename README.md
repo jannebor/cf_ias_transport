@@ -20,7 +20,6 @@ R code for reproducing these steps (except manual downloads) can be found [here]
 
 -   Data on international trade between 1995-2019 was downloaded from the [BACI database](http://www.cepii.fr/DATA_DOWNLOAD/baci/doc/LegacyVersions.html) (legacy version February 2021, HS92). This data was converted and aggregated to obtain transported quantities of commodities between pairs of (importing & exporting) countries.
 -   Monetary trade flows for the period 1870-2014 were retrieved from the [Correlates of War](https://correlatesofwar.org/data-sets/bilateral-trade/) project.
--   Monetary trade flows for the period 1870-2014 were retrieved from the [Correlates of War](https://correlatesofwar.org/data-sets/bilateral-trade/) project.
 -   Distances between pairs of countries were calculated using [geospatial data](https://www.naturalearthdata.com/) and the R package [sf](https://r-spatial.github.io/sf/).
 
 R code for reproducing these steps (except manual downloads) can be found [here](https://github.com/jannebor/cf_ias_transport/tree/main/R/data_prep).
